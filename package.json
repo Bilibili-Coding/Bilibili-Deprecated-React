@@ -1,0 +1,29 @@
+{
+  "name": "bilibili",
+  "version": "1.0.0",
+  "description": "我居然在b站看山寨b站",
+  "main": "/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilibili-Coding/Bilibili.git"
+  },
+  "author": "WMXPY",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Bilibili-Coding/Bilibili/issues"
+  },
+  "homepage": "https://github.com/Bilibili-Coding/Bilibili#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
